@@ -1,7 +1,6 @@
 # EDHEC_MIPC
 This is mainly for MIPC competition
 
-----------
 # MIPC
 
 [Official Introduction](https://mipc.ca/info-session-video/://github.com)
@@ -56,13 +55,13 @@ How can finance managers create a **long-term** portfolio that addresses **socie
 ![opportunity](img/opportunity.png)
 
 
-----------------------
+
 # What's Next?
 
 **Think about Covid-19, model without considering covid-19 will no doubt fail**
 
 
 
------------------------
-# 备注
-很好的NETWORK的机会，可以把简历给赞助者，今年所有参赛者都可以交简历给赞助者
+
+# NOTE
+It's a good chance for networking, where you could give your resume directly to the sponsors. (this year, every participants could submit their CVs)
